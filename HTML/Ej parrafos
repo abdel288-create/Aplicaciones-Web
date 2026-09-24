@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+ <html>
+    <head>
+         <title>HOLA!</title>
+         <meta name="author" content="Abdel Sandali">
+         <meta charset="UTF-8">
+    </head>
+
+
+    <body>
+      <p>Estaprimera línea <br> contiene dos etiquetas </p>
+      <p>En esta segunda <br>linea también incluimos etiquetas <br>pero son tres</p>
+      <p> Ahora incluimos lineas de separacación</p>
+      <hr> <br> <hr>
+    </body>
+
+</html>
